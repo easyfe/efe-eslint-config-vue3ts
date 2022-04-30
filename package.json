@@ -1,0 +1,28 @@
+{
+  "name": "@easyfe/eslint-config-vue3ts",
+  "version": "0.0.1",
+  "description": "eslint规则,针对vue3+ts项目编写",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "5.4.0",
+    "@typescript-eslint/parser": "5.4.0",
+    "prettier": "2.4.1",
+    "eslint": "7.32.0",
+    "eslint-config-prettier": "8.3.0",
+    "eslint-define-config": "1.2.0",
+    "eslint-plugin-import": "2.25.4",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-prettier": "4.0.0",
+    "eslint-plugin-promise": "4.2.1",
+    "eslint-plugin-vue": "7.20.0"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "license": "ISC"
+}
