@@ -18,13 +18,14 @@ module.exports = {
     ],
 
     rules: {
+        //禁止使用var
         "vue/script-setup-uses-vars": "error",
         //禁止使用eval
         "no-eval": "error",
         //允许使用any类型
         "@typescript-eslint/no-explicit-any": "off",
         //函数必须添加返回类型
-        "@typescript-eslint/explicit-function-return-type": "error",
+        "@typescript-eslint/explicit-function-return-type": "off",
         //允许require引入
         "@typescript-eslint/no-var-requires": "off",
         //perttier错误

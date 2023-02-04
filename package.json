@@ -1,6 +1,6 @@
 {
   "name": "@easyfe/eslint-config-vue3ts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "eslint规则,针对vue3+ts项目编写",
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
