@@ -1,6 +1,6 @@
 {
   "name": "@easyfe/eslint-config-vue3ts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "eslint规则,针对vue3+ts项目编写",
   "publishConfig": {
     "registry": "https://registry.npmjs.org",
@@ -14,7 +14,6 @@
     "prettier": "2.4.1",
     "eslint": "7.32.0",
     "eslint-config-prettier": "8.3.0",
-    "eslint-define-config": "1.2.0",
     "eslint-plugin-import": "2.25.4",
     "eslint-plugin-node": "11.1.0",
     "eslint-plugin-prettier": "4.0.0",
